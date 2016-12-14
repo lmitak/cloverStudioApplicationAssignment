@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QualificationProject</string>
+    <string name="label_number_range">Unesite jedan broj od 100-1000</string>
+    <string name="label_first_lower">Prvi manji:</string>
+    <string name="label_first_higher">Prvi veći:</string>
+    <string name="print">Ispiši</string>
+    <string name="cancel">Poništi</string>
+    <string name="no_higher_value">Nema prvog većeg</string>
+    <string name="no_lower_value">Nema prvog manjeg</string>
+</resources>
